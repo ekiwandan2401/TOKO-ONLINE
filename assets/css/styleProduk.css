@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;0,600;1,400;1,500;1,600&display=swap');
+
+body{
+	background-color: #EAEAEA;
+	font-family: 'Poppins', sans-serif;
+	color: #2d2d2d;
+	font-size: 14px;
+}
+.row-produk{
+	background-color: #fff;
+	margin: 0;
+	padding: 5px;
+	padding-top: 16px;
+}
+.garis-nama{
+	border-bottom: 2px solid #2d2d2d;
+	margin-top: 10px;
+	margin-bottom: 25px;
+}
